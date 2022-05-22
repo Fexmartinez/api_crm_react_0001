@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "nombre": "Edgar - A",
+      "empresa": "Codigo Con Juan",
+      "email": "correo@correo.com",
+      "telefono": "129918398193",
+      "notas": "El Cliente solicita un servidor",
+      "id": 6
+    },
+    {
+      "nombre": "Juan",
+      "empresa": "Codigo Con Juan",
+      "email": "correo@correo.com",
+      "telefono": "9183981398139",
+      "notas": "",
+      "id": 7
+    },
+    {
+      "nombre": "felix",
+      "empresa": "linkxers",
+      "email": "correo@correo.com",
+      "telefono": "254125478",
+      "notas": "prueba 0001",
+      "id": 8
+    },
+    {
+      "nombre": "libro",
+      "empresa": "FELIX",
+      "email": "FELIXMARTINEZCESAR@GMAIL.COM",
+      "telefono": "997387606",
+      "notas": "aja cholloooo",
+      "id": 16
+    },
+    {
+      "nombre": "nuevo cliente",
+      "empresa": "nueva emp",
+      "email": "correo@correo.com",
+      "telefono": "971398206",
+      "notas": "nuevo registro",
+      "id": 17
+    }
+  ]
+}
